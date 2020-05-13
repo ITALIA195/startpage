@@ -1,35 +1,28 @@
 {
   "squares": [
-    { "name": "media", "links": [
-        { "name": "Spotify", "url": "https://open.spotify.com/" },
-        { "name": "YoutubeMusic", "url": "https://music.youtube.com/" },
-        { "name": "Netflix", "url": "https://netflix.com" },
-        { "name": "Youtube", "url": "https://youtube.com" }
+    { "name": "weeb", "links": [
+        { "name": "AnimeList", "url": "https://myanimelist.net/animelist/ImHawkward" },
+        { "name": "AniChart", "url": "https://anichart.net" },
+        { "name": "Animeforce", "url": "https://animeforce.org" },
+        { "name": "MangaList", "url": "https://myanimelist.net/mangalist/ImHawkward" }
       ]
     },
-    { "name": "work", "links": [
-        { "name": "Github", "url": "https://github.com" },
-        { "name": "Heroku", "url": "http://heroku.com/" },
-        { "name": "localhost", "url": "http://localhost:8000/" }
-      ]
-    },
-    { "name": "social", "links": [
-        { "name": "Reddit", "url": "https://reddit.com" },
-        { "name": "Unixporn Love", "url": "https://deepjyoti30.github.io/unixporn-love/" },
-        { "name": "r/unixporn", "url": "https://www.reddit.com/r/unixporn/" },
-        { "name": "r/mk", "url": "https://www.reddit.com/r/MechanicalKeyboards/" }
+    { "name": "entertainment", "links": [
+        { "name": "Youtube", "url": "https://www.youtube.com/" },
+        { "name": "Shroud", "url": "https://mixer.com/shroud" },
+        { "name": "Twitch", "url": "https://www.twitch.tv/directory" }
       ]
     },
     {
-      "name": "Others", "links": [
-        {"name": "Material Colors", "url": "http://materialuicolors.co/"},
-        {"name": "Gmail", "url": "http://gmail.com/"},
-        {"name": "neo4j Local", "url": "http://localhost:7474/"},
-        {"name": "rarbg", "url": "http://rarbg.to"}
+      "name": "reddit", "links": [
+        { "name": "Reddit", "url": "https://reddit.com" },
+        { "name": "r/LSF", "url": "https://www.reddit.com/r/LivestreamFail/" },
+        { "name": "r/Anime", "url": "https://www.reddit.com/r/Anime" },
+        { "name": "r/Animemes", "url": "https://www.reddit.com/r/Animemes/" }
       ]
     }
   ],
-  "user": "Deepjyoti",
+  "user": "Hawk",
   "disableMessage": false,
   "disableDate": false,
   "disableSearchBar": false
